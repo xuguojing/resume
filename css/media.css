@@ -1,4 +1,27 @@
-
+@media only print {
+	*{
+		font-size: 14px;
+	}
+	#centent{
+		margin: 0 auto;	
+	}
+	
+	/* 解决倒塌倒塌 */
+	.clearfix:after{
+		content: "";
+		display: block;
+		clear: both;
+		}
+		/* IE */
+		.clearfix{
+			zoom:1;
+		}
+	/* 清楚浮动 */
+	.clearfloat{
+		clear: both;
+	}
+	
+	}
 @media only screen and (max-device-width: 1400px){
 	#centent{
 		width: 1100px;
