@@ -1,0 +1,33 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+html,body{	
+	background-image: url(../img/bgcol.png);
+}
+#centent{
+	margin: 3% auto;	
+	width: 1000px;
+	overflow: hidden;
+}
+
+#centent:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+/* 解决倒塌倒塌 */
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+	}
+	/* IE */
+	.clearfix{
+		zoom:1;
+	}
+/* 清楚浮动 */
+.clearfloat{
+	clear: both;
+}

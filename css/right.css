@@ -1,0 +1,56 @@
+#right{
+	float: left;
+	width: 70%;
+	background: white;
+	padding-bottom: 10000px;
+	margin-bottom:-10000px;
+}
+
+
+
+#resume_name{
+	font-size: 36px;
+	margin-top:4%;
+	margin-left:9%;
+	margin-bottom: 3%;
+}
+
+#resume_sketch{
+	font-size: 14px;
+	color:dimgray;
+	margin-left:9%;	
+	margin-bottom: 5%;
+}
+.bgcol{
+	float: left;
+	width: 30px;
+	height: 30px;
+	color: white;
+	display: inline-block;
+	background-color:#254665 ;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 30px;
+}
+
+.resume_introduce{
+	margin-left:8%;	
+	margin-bottom: 4%;
+}
+.resume_introduce .resume_introduce_border{
+	border-bottom: 2px solid #254665;
+	float: left;	
+	width:85%;
+	margin-left: 1%;
+	font-size:20px ;
+	color: #254665;
+	font-weight: bold;
+	margin-bottom: 5%;
+}
+
+.resume_introduce .float{
+	float: left;
+	margin-right: 5%;	
+	margin-left: 2%;
+	
+}

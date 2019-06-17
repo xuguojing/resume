@@ -1,0 +1,231 @@
+
+@media only screen and (max-device-width: 1400px){
+	#centent{
+		width: 1100px;
+	}
+	#left{
+		float: left;
+		width: 40%;
+		background:#254665;
+	
+	}
+	#lefttop{
+		margin-left: 5%;
+		margin-top: 20%;
+		
+	}
+	#lefttop .information{
+		margin-bottom: 10%;
+	}
+	#lefttop .information >div{
+		font-size:22px;
+	}
+	
+	#skill{
+		margin-left: 5%;
+		margin-top: 20%;
+	}
+	#skill >div{
+		font-size: 20px;
+	}
+	#skills{
+		width: 90%;
+		background-color: #00FFFF;
+		margin: 5% 5%;
+	}
+	
+	
+	
+	.circular{
+	  float: left;
+	  width: 90px;
+	  height: 30px;
+	  background: #ffffff;
+	  border-radius: 50%;
+	  border: 5px solid #4487c6;
+	  text-align: center;
+	  line-height: 30px; 
+	  margin: 20% 3%;
+	}
+	
+	#right{
+		float: left;
+		width: 60%;
+		background: white;
+	}
+}
+
+
+@media only screen and (max-device-width: 1200px){
+	#centent{
+		width: 780px;
+	}
+	#left{
+		float: left;
+		width: 40%;
+		background:#254665;
+	
+	}
+	#lefttop{
+		margin-left: 5%;
+		margin-top: 20%;
+		
+	}
+	#lefttop .information{
+		margin-bottom: 10%;
+	}
+	#lefttop .information >div{
+		font-size:19px;
+	}
+	
+	#skill{
+		margin-left: 5%;
+		margin-top: 20%;
+	}
+	#skill >div{
+		font-size: 20px;
+	}
+	#skills{
+		width: 90%;
+		background-color: #00FFFF;
+		margin: 5% 5%;
+	}
+	
+	
+	
+	.circular{
+	  float: left;
+	  width: 90px;
+	  height: 30px;
+	  background: #ffffff;
+	  border-radius: 50%;
+	  border: 5px solid #4487c6;
+	  text-align: center;
+	  line-height: 30px; 
+	  margin: 20% 3%;
+	}
+	
+	#right{
+		float: left;
+		width: 60%;
+		background: white;
+	}
+}
+
+@media only screen and (max-device-width: 800px){
+	*{
+		font-size: 16px;
+	}
+	#centent{
+		width: 600px;
+	}
+	#left{
+		float: left;
+		width: 40%;
+		background:#254665;
+	
+	}
+	#lefttop{
+		margin-left: 5%;
+		margin-top: 20%;
+		
+	}
+	#lefttop .information{
+		margin-bottom: 10%;
+	}
+	#lefttop .information >div{
+		font-size:16px;
+	}
+	
+	#skill{
+		margin-left: 5%;
+		margin-top: 20%;
+	}
+	#skill >div{
+		font-size: 20px;
+	}
+	#skills{
+		width: 90%;
+		background-color: #00FFFF;
+		margin: 5% 5%;
+	}
+	
+	
+	
+	.circular{
+	  float: left;
+	  height: 100px;
+	  background: #ffffff;
+	  border-radius: 50%;
+	  border: 5px solid #4487c6;
+	  text-align: center;
+	  line-height: 100px; 
+	  margin: 50% 1%;
+	}
+	
+	#right{
+		float: left;
+		width: 60%;
+		background: white;
+	}
+}
+@media only screen and (max-device-width:600px) {
+	*{
+		font-size: 10px;
+	}
+	#centent{
+		width: 310px;		
+	}
+	#left{
+		float: left;
+		width: 40%;
+		background:#254665;
+
+	}
+	#lefttop{
+		margin-left: 5%;
+		margin-top: 20%;
+		
+	}
+	#lefttop .information{
+		margin-bottom: 10%;
+	}
+	#lefttop .information >div{
+		font-size:10px;
+	}
+	
+	#skill{
+		margin-left: 5%;
+		margin-top: 20%;
+	}
+	#skill >div{
+		font-size: 20px;
+	}
+	#skills{
+		width: 90%;
+		background-color: #00FFFF;
+		margin: 5% 5%;
+	}
+	
+	
+
+	.circular{
+	  float: left;
+	  width: 90px;
+	  height: 30px;
+	  background: #ffffff;
+	  border-radius: 50%;
+	  border: 5px solid #4487c6;
+	  text-align: center;
+	  line-height: 30px; 
+	  margin: 50% 3%;
+	}
+	
+	#right{
+		float: left;
+		width: 60%;
+		background: white;
+	}
+}
+
+
