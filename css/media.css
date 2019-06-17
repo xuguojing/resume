@@ -5,7 +5,11 @@
 	#centent{
 		margin: 0 auto;	
 	}
-	
+	#resume_name{
+		font-size: 36px;
+		margin-top:0%;
+
+	}
 	}
 @media only screen and (max-device-width: 1400px){
 	#centent{
