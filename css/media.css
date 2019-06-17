@@ -226,6 +226,13 @@
 		width: 60%;
 		background: white;
 	}
+	#resume_name{
+		font-size: 30px;
+	}
+	.resume_introduce .resume_introduce_border{
+		width: 70%;
+	}
+
 }
 
 
