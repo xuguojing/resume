@@ -2,9 +2,7 @@
 	padding: 0;
 	margin: 0;
 }
-html,body{	
-	background-image: url(../img/bgcol.png);
-}
+
 #centent{
 	margin: 3% auto;	
 	width: 1000px;

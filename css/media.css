@@ -1,6 +1,6 @@
 @media only print {
 	*{
-		font-size: 14px;
+		font-size: 12px;
 	}
 	#centent{
 		margin: 0 auto;	
@@ -15,6 +15,9 @@
 		color:dimgray;
 		margin-left:9%;	
 		margin-bottom: 3%;
+	}
+	.circular{
+	  margin: 19% 3%;
 	}
 	}
 @media only screen and (max-device-width: 1400px){
